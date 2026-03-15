@@ -44,8 +44,9 @@ more accessible for beginners
 safer through risk detection
 more efficient for experienced traders
 ClawPilot AI transforms a traditional trading platform into a smart AI-assisted trading environment.
-📷 Demo
+Demo
 See the demo interface below showing the ClawPilot AI assistant integrated into a trading dashboard.
+![ClawPilot AI Demo](demo.png)
 🔮 Future Development
 Potential future improvements include:
 voice trading assistant
